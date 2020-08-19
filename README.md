@@ -8,6 +8,7 @@ Development happens on the `EventSourcing` branch of this repository.
 
 
 [![Build Status](https://travis-ci.com/Bernd-L/exDateMan.svg?branch=master)](https://travis-ci.com/Bernd-L/exDateMan) ![Dependencies](https://img.shields.io/librariesio/github/Bernd-L/exDateMan.svg) [![Coverage](https://img.shields.io/codeclimate/coverage/Bernd-L/exDateMan.svg)](https://coveralls.io/repos/github/Bernd-L/exDateMan/badge.svg?branch=master) [![Maintainability](https://api.codeclimate.com/v1/badges/31fda3a4f5da42590f46/maintainability)](https://codeclimate.com/github/Bernd-L/exDateMan/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/31fda3a4f5da42590f46/test_coverage)](https://codeclimate.com/github/Bernd-L/exDateMan/test_coverage) ![Badges Count](https://img.shields.io/badge/badges-not%20enough-orange.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBernd-L%2FexDateMan.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FBernd-L%2FexDateMan?ref=badge_shield)
 
 ## Contents
 
@@ -22,6 +23,9 @@ Development happens on the `EventSourcing` branch of this repository.
     - [JSON Web Tokens](#json-web-tokens)
   - [Usage](#usage)
   - [License](#license)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FBernd-L%2FexDateMan.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FBernd-L%2FexDateMan?ref=badge_large)
 
 ## Description
 
